@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: aswathy2026/mydockerproject007:myzomatoimage
+        image: aswathy2026/mydockerproject007:myzomatoimage-arm64
         ports:
           - containerPort: 3000
 
